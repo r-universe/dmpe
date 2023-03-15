@@ -1,10 +1,10 @@
 [
   {
-    "package": "urlshorteneR",
+    "package": "WufooR",
     "oncran": true
   },
   {
-    "package": "WufooR",
+    "package": "urlshorteneR",
     "oncran": true
   }
 ]
