@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "urlshorteneR"]
-	path = urlshorteneR
-	url = https://github.com/dmpe/urlshortener
 [submodule "WufooR"]
 	path = WufooR
 	url = https://github.com/dmpe/wufoor
+[submodule "urlshorteneR"]
+	path = urlshorteneR
+	url = https://github.com/dmpe/urlshortener
